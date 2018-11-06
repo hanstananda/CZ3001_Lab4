@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Lab4/TestbenchLab4_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TestbenchLab4" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/TestbenchLab4/PCOUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PCOUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCOUT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/INST" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">INST[31:0]</obj_property>
+      <obj_property name="ObjectShortName">INST[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata1_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata1_ID_EXE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata1_ID_EXE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata2_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata2_ID_EXE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata2_ID_EXE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/imm_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">imm_ID_EXE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_ID_EXE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata2_imm_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata2_imm_ID_EXE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata2_imm_ID_EXE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/aluop_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluop_ID_EXE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">aluop_ID_EXE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/alusrc_ID_EXE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">alusrc_ID_EXE</obj_property>
+      <obj_property name="ObjectShortName">alusrc_ID_EXE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/waddr_ID_EXE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">waddr_ID_EXE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">waddr_ID_EXE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/aluout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/waddr_EXE_MEM" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">waddr_EXE_MEM[4:0]</obj_property>
+      <obj_property name="ObjectShortName">waddr_EXE_MEM[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/aluout_EXE_MEM" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluout_EXE_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluout_EXE_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rdata2_EXE_MEM" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata2_EXE_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata2_EXE_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/dmemdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dmemdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dmemdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/waddr_MEM_WB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">waddr_MEM_WB[4:0]</obj_property>
+      <obj_property name="ObjectShortName">waddr_MEM_WB[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/aluout_MEM_WB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluout_MEM_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluout_MEM_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/wdata_WB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wdata_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestbenchLab4/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+</wave_config>
